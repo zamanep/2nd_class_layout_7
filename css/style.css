@@ -1,0 +1,113 @@
+*{
+    margin: 0; 
+}
+body{
+    background-color: #E3EFF0;
+}
+header{
+    background-color: #A7CACD;
+    width: 99.70%;
+    height: 150px;
+    margin: 2px;
+    text-align: center;
+}
+.body{
+    margin: 4px;
+}
+.intro{
+    overflow: hidden;
+    background-color: #E3EFF0;
+    width: 100%;
+    height: 400px;
+    
+}
+
+.intro_copy{
+    overflow: hidden;
+    background-color: #A7CACD;
+    margin: 1px;
+    width: 59.5%;
+    height: 400px;
+    text-align: center;
+    float: left;
+    
+}
+.right_block{
+    overflow: hidden;
+    background-color: #E3EFF0;
+    margin: 2px;
+    width: 39%;
+    height: 400px;
+    float: right;
+    
+}
+.intro_image{
+    overflow: hidden;
+    background-color: #A7CACD;
+    height: 298px;
+    text-align: center;
+    
+}
+.intro_button{
+    overflow: hidden;
+    background-color: #CED911;
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    height: 90px;
+   
+}
+.feature{
+    overflow: hidden;
+    background-color: #A7CACD;
+    width: 100%;
+    height: 150px;
+    margin: 6px 0px;
+    text-align: center;
+}
+.more_copy{
+    overflow: hidden;
+    background-color: #A7CACD;
+    width: 59.5%;
+    height: 95px;
+    margin: 4px 0px 4px 0px;
+    text-align: center;
+    float: left;
+
+}
+.feature_button{
+    overflow: hidden;
+    background-color: #CED911;
+    width: 39%;
+    height: 95px;
+    margin: 4px 0px 4px 0px;
+    text-align: center;
+    float: right;
+}
+
+
+.layout{
+    overflow: hidden;
+    background-color: #A7CACD;
+    text-align: center;
+    height: 70px;  
+}
+    
+ul{
+    list-style: square;
+}
+
+li{  
+   display:inline-block;
+   margin: 2px 10px;
+   font-size: 15px;
+}
+
+footer{
+    overflow: hidden;
+    width: 100%;
+    height: 60px;
+    background-color: #2F60BD;
+    font-size: 15px;
+    text-align: center;
+    color: aliceblue;
+}
